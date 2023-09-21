@@ -4,10 +4,12 @@
 <p align="center">  <strong> I ❤️ solve great challenges using tech. </strong> <br><br> Cursando o 1 ano do Ensino médio, <strong> trabalhando na Martins como Assistente Administrativo interessado na área de Tecnologia Da Informação (TI),</strong> tenho o conhecimento básico em (HTML5, CSS, JavaScript e Linux I) e quero me aprofundar cada vez mais nessa área. </p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-stats.vercel.app/api?username=Maycon-Melo" "https://github.com/anuraghazra/github-readme-stats" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=Maycon-Melo&show_icons=true&theme=radical&layout=compact" />
- </div>
+<img width=45% align="center"  src="https://github-readme-stats.vercel.app/api?username=Maycon-Melo&show_icons=true&theme=midnight-purple&border_radius=10&" />
  
+ <img width=49% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=Maycon-Melo&show_icons=true&theme=midnight-purple&layout=compact&border_radius=15&" />
+
+ </div>
+
  &nbsp;
  &nbsp;
 
