@@ -5,8 +5,7 @@
  
  <img width=45% align="Right" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=Maycon-Melo&show_icons=true&theme=midnight-purple&layout=compact&border_radius=15&" />
 
- <img width=45% align="Right"  src= "https://github-readme-stats.vercel.app/api/pin/?username=Maycon-Melo&repo=PORTIFOLIO-SITE&theme=midnight-purple&border_radius=10&" 
- /> 
+ <img width=45% align="Right"  src= "https://github-readme-stats.vercel.app/api/pin/?username=Maycon-Melo&repo=PORTIFOLIO-SITE&theme=midnight-purple&border_radius=10&" /> 
 
  </div>
 
