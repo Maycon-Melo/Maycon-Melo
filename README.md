@@ -3,10 +3,8 @@
 <div  align="center" style="margin-bottom:100px">
 <img width=50% align="center"  src="https://github-readme-stats.vercel.app/api?username=Maycon-Melo&show_icons=true&theme=midnight-purple&border_radius=10&rank_icon=github&" />
  
- <img width=45% align="Right" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=Maycon-Melo&show_icons=true&theme=midnight-purple&layout=compact&border_radius=15&" />
+ <img width=45% align="Right" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=Maycon-Melo&show_icons=true&theme=midnight-purple&layout=pie&border_radius=15&" />
  
-  <img width=45% align="Right"  src= "https://github-readme-stats.vercel.app/api/pin/?username=Maycon-Melo&repo=PORTIFOLIO-SITE&theme=midnight-purple&border_radius=10&" /> 
-  
  </div>
 
  &nbsp;
