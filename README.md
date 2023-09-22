@@ -1,5 +1,6 @@
-<img align="center" style="margin-bottom:100px" width=100% src="https://i.pinimg.com/originals/50/70/f9/5070f9e7af565d1d16a3edfd7f53cd1e.png" />
+<img align="center" style="margin-bottom:100px" width=100% src= "https://github.com/Maycon-Melo/Maycon-Melo/assets/132609144/7533973d-5da4-418b-8a12-0d620b3236c1" />
 &nbsp;&nbsp;&nbsp;
+
 
 
 <p align="center">  <strong> I ❤️ solve great challenges using tech. </strong> <br><br> Cursando o 1 ano do Ensino médio, <strong> trabalhando na Martins como Assistente Administrativo interessado na área de Tecnologia Da Informação (TI),</strong> tenho o conhecimento básico em (HTML5, CSS, JavaScript e Linux I) e quero me aprofundar cada vez mais nessa área. </p>&nbsp;
