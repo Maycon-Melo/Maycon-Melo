@@ -1,7 +1,7 @@
 <img align="center" style="margin-bottom:100px" width=100% src= "https://github.com/Maycon-Melo/Maycon-Melo/assets/132609144/abd82ec1-0838-47cd-b816-37cbcb5a4ea9" />
 &nbsp;&nbsp;&nbsp;
 
-<p align="center">  <strong> I ❤️ solve great challenges using tech. </strong> <br><br> Cursando o 1 ano do Ensino médio, <strong> trabalhando na Martins como Assistente Administrativo interessado na área de Tecnologia Da Informação (TI),</strong> tenho o conhecimento básico em (HTML5, CSS, JavaScript e Linux I) e quero me aprofundar cada vez mais nessa área. </p>&nbsp;
+<p align="center"> <strong>------------------------------------------------------------------------------------------------------------------------------------------------------</strong></p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-stats.vercel.app/api?username=Maycon-Melo&show_icons=true&theme=midnight-purple&border_radius=20&rank_icon=github&" />
